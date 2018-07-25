@@ -16,9 +16,6 @@ The name is short for **Hi** **per**formance <del>Or **Hi**gh **per**formance</d
 
 ## Important
 
-Hi guys, Please present your issue in English 
-
-请使用英语提issue
 
 ## Install
 
@@ -218,7 +215,7 @@ In addition, you can also make a comparison and get **accurate data** about **ho
 
 Welcome Star and PR
 
-Copyright (c) 2018 liyanfeng(pod4g)
+Copyright (c) 2018 Jukun()
 
 
 
